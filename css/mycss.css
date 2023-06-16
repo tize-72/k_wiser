@@ -1,0 +1,277 @@
+#ex1Slider .slider-selection {
+    background: white;
+}
+
+
+/*巨幕背景*/
+
+.newjumbotron {
+    background: url(../imgs/f.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#slider-test {
+    background: white;
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+    border: none;
+}
+
+
+/*滑块的位置*/
+
+#slider {
+    background: white;
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+}
+
+
+/*主页多子图之上的整体模块*/
+
+#testdiv {
+    background: white;
+    width: 100%;
+    height: 170px;
+    margin-top: 0px;
+    box-shadow: 0px 0px 0px rgb(109, 109, 128);
+    border: none;
+    border-style: none;
+}
+
+#panel-default {
+    border: none;
+    border-style: none;
+    background: white;
+    width: 100%;
+    height: 170px;
+    margin-top: 0px;
+    box-shadow: 0px 0px 0px rgb(109, 109, 128);
+}
+
+
+/*结构图1*/
+
+#mynetwork1 {
+    border: none;
+    border-style: none;
+}
+
+
+/*结构图2*/
+
+#mynetwork2 {
+    border: none;
+    border-style: none;
+}
+
+
+/*结构图3*/
+
+#mynetwork3 {
+    border: none;
+    border-style: none;
+}
+
+
+/*结构图4*/
+
+#mynetwork4 {
+    border: none;
+    border-style: none;
+}
+
+#mynetwork {
+    border: none;
+    border-style: none;
+}
+
+#mynetwork5 {
+    border: none;
+    border-style: none;
+}
+
+#mynetwork6 {
+    border: none;
+    border-style: none;
+}
+
+#mynetwork7 {
+    border: none;
+    border-style: none;
+}
+
+#mynetwork8 {
+    border: none;
+    border-style: none;
+}
+
+#mynetwork9 {
+    border: none;
+    border-style: none;
+}
+
+
+/*主页搜索框上方的空白*/
+
+#vacant {
+    background: white;
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+}
+
+
+/*网页标题*/
+
+.test-title {
+    font-size: 20px;
+    color: rgb(22, 22, 186);
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/*网页文字内容*/
+
+.test-content {
+    font-size: 15px;
+    color: rgb(28, 28, 33);
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/*li标签的阴影*/
+
+#li-test {
+    box-shadow: 0px 1px 1px rgb(152, 152, 167);
+}
+
+
+/*占位空div的样式*/
+
+#vacant-1 {
+    background: white;
+    width: 100%;
+    height: 30px;
+    margin-top: -6mm;
+}
+
+
+/*进度条的文字*/
+
+#Process {
+    font-size: 19px;
+    color: rgb(28, 28, 33);
+    font-family: "Times New Roman", Times, serif;
+    margin-top: -1mm;
+}
+
+
+/*主页中搜索内容的两个按钮形式*/
+
+.btn-self {
+    background-color: #2144a4;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/*y右边表格的设置*/
+
+#tbtest {
+    border: none;
+    border-style: none;
+}
+
+
+/*右边表格的标题*/
+
+#h1-table {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/*myspan*/
+
+#my-span {
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#my-span-1 {
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+datalist {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 18px;
+}
+
+option {
+    padding: 0;
+}
+
+input[type="range"] {
+    width: 100%;
+    margin: 0;
+}
+
+
+/*滑块上方的文字设置*/
+
+#slider-text {
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#graph-css {
+    width: 630px;
+    height: 420px;
+    border: 1.5px solid #2430b9;
+    border-radius: 15px 20px;
+    border-style: dashed
+}
+
+#graph-css-sub {
+    width: 910px;
+    height: 420px;
+    border: 1.5px solid #2430b9;
+    border-radius: 15px 20px;
+    border-style: dashed
+}
+
+td {
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+th {
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#tbbox {
+    width: 800px;
+    height: 1600px;
+    border: 1.5px solid #2430b9;
+    margin-top: 0.1cm;
+    border-radius: 15px 20px;
+    border-style: dashed
+}
